@@ -24,7 +24,7 @@ Thanks to Ralph Crützen for merging the necessary changes into his library so t
 
 ## Set up
 
-See the Instructable at https://www.instructables.com/id/pizza-box-clock for details of how to build the project
+See the Instructable at https://www.instructables.com/id/5-Pizza-Box-RGB-Clock/ for details of how to build the project
 
 ## To Do
 
